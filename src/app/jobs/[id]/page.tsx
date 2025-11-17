@@ -14,7 +14,7 @@ import {
   BuildingOfficeIcon,
   UserGroupIcon,
   CalendarIcon,
-  ExternalLinkIcon
+  ArrowTopRightOnSquareIcon
 } from '@heroicons/react/24/outline';
 import { BookmarkIcon as BookmarkIconSolid } from '@heroicons/react/24/solid';
 import Layout from '@/components/layout/Layout';
