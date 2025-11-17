@@ -9,7 +9,7 @@ import {
   CurrencyDollarIcon,
   BriefcaseIcon,
   ClockIcon,
-  ExternalLinkIcon
+  ArrowTopRightOnSquareIcon
 } from '@heroicons/react/24/outline';
 import { BookmarkIcon as BookmarkIconSolid } from '@heroicons/react/24/solid';
 import { Button } from '../ui';
